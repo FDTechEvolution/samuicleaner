@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit:400,600,700|Prompt:400,600,700');
+.font-thai-kanit{
+    font-family: 'Kanit', 'sans-serif' !important;
+}
+.font-thai-prompt{
+    font-family: 'Prompt', 'sans-serif' !important;
+}
+
+.page_loader {
+    position: absolute;
+    top: 0;
+    bottom: 0%;
+    left: 0;
+    right: 0%;
+    background-color: #FFFFFF;
+    z-index: 999999;
+    opacity:0.8;
+}
+.page_loader img {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px;
+}
+.hand-cursor {
+    cursor: pointer;
+}

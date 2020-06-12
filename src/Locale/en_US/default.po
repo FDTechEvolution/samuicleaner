@@ -1,0 +1,930 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-06-21 22:53+0700\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Template/Book/index.ctp:377;441;491
+msgid "Save and continue"
+msgstr ""
+
+#: Template/Book/index.ctp:393;410;427
+msgid "Room"
+msgstr ""
+
+#: Template/Book/index.ctp:394;411;428
+msgid "Hours"
+msgstr ""
+
+#: Template/Book/index.ctp:479
+#: Template/Bookings/index.ctp:135
+msgid "Select"
+msgstr ""
+
+#: Template/Book/index.ctp:532
+msgid "Booking Confirm"
+msgstr ""
+
+#: Template/Book/index_1.ctp:52
+msgid "Next"
+msgstr ""
+
+#: Template/Book/mybooking.ctp:5
+msgid "My Booking"
+msgstr ""
+
+#: Template/Bookings/index.ctp:13
+#: Template/Bookings/step2.ctp:6
+msgid "Cleaning Detail"
+msgstr ""
+
+#: Template/Bookings/index.ctp:19
+#: Template/Bookings/step2.ctp:12
+msgid "MyInformation"
+msgstr ""
+
+#: Template/Bookings/index.ctp:25
+#: Template/Bookings/step2.ctp:18
+msgid "Payment"
+msgstr ""
+
+#: Template/Bookings/index.ctp:37
+msgid "Area"
+msgstr ""
+
+#: Template/Bookings/index.ctp:44
+msgid "Service"
+msgstr ""
+
+#: Template/Bookings/index.ctp:51
+msgid "Date"
+msgstr ""
+
+#: Template/Bookings/index.ctp:59
+msgid "Time"
+msgstr ""
+
+#: Template/Bookings/index.ctp:71
+msgid "Total Room"
+msgstr ""
+
+#: Template/Bookings/index.ctp:78
+msgid "Total Hour"
+msgstr ""
+
+#: Template/Bookings/index.ctp:85
+msgid "Package"
+msgstr ""
+
+#: Template/Bookings/index.ctp:94
+msgid "Find Cleaner"
+msgstr ""
+
+#: Template/Cancellation/index.ctp:5
+msgid "Conditions and restrictions/Cancellation policy"
+msgstr ""
+
+#: Template/Cancellation/index.ctp:6
+msgid "Samuicleaner.com Implement and manage an online platform where customers can book cleaning the house by sending a reservation request through samuicleaner.com. Once the booking is confirmed, and payment completed Samuicleaner.com Requests to send all information to the maid service to clean up by schedule and the most appropriate."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:9
+msgid "1. The terms and conditions of the service."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:11
+msgid "The cleaning service must be booked at least one day in advance."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:12
+msgid "Users will receive confirmation from the maid service within 24 hours or sooner."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:13
+msgid "Users may be denied or cancellation. If the maid is not enough The provider will call you. And the service will not cost you any of this."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:14
+msgid "Users can pay via credit / debit cards only. The system will cut the amount of credit / debit card immediately after the maid had confirmation of the service."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:15
+msgid "If users are not satisfied with the service. Providers offer 100% money back unconditionally. Or offer to clean the site again."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:18
+msgid "2. The terms and conditions of the provider."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:20
+msgid "Any damaged or defective equipment while cleaning. In addition to the responsibility of the provider. Homeowners or consumers can not claim damages from the provider."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:21
+msgid "The only cleaning the bedroom, living room common area, bathroom, kitchen, and balcony."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:22
+msgid "Service providers can reject or cancel the service. If the maid is not enough By providers to inform the subscriber. And the service will not cost you any of this."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:26
+msgid "3. Cancellation and refund."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:28
+msgid "Users may cancel their service. The call provider. The conditions are as follows"
+msgstr ""
+
+#: Template/Cancellation/index.ctp:29
+msgid "If you cancel your reservation before the users are confirmed. Users will not charge for any of these cases."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:30
+msgid "If canceled after booking the user is verified. And cancel more than 24 hours before the appointed time, the provider will refund any payments from credit / debit 4% to the "
+msgstr ""
+
+#: Template/Cancellation/index.ctp:31
+msgid "If canceled after booking the user is verified. And cancel appointments at least 24 hours prior to the service provider will return the money to the seller only 50% only."
+msgstr ""
+
+#: Template/Comments/add.ctp:8
+#: Template/Comments/edit.ctp:8
+#: Template/Comments/index.ctp:8;28
+#: Template/Comments/view.ctp:8
+msgid "Actions"
+msgstr ""
+
+#: Template/Comments/add.ctp:9
+#: Template/Comments/edit.ctp:15
+#: Template/Comments/view.ctp:11
+msgid "List Comments"
+msgstr ""
+
+#: Template/Comments/add.ctp:10
+#: Template/Comments/edit.ctp:16
+#: Template/Comments/index.ctp:10
+#: Template/Comments/view.ctp:13
+msgid "List Users"
+msgstr ""
+
+#: Template/Comments/add.ctp:11
+#: Template/Comments/edit.ctp:17
+#: Template/Comments/index.ctp:11
+#: Template/Comments/view.ctp:14
+msgid "New User"
+msgstr ""
+
+#: Template/Comments/add.ctp:12
+#: Template/Comments/edit.ctp:18
+#: Template/Comments/index.ctp:12
+#: Template/Comments/view.ctp:15
+msgid "List Maids"
+msgstr ""
+
+#: Template/Comments/add.ctp:13
+#: Template/Comments/edit.ctp:19
+#: Template/Comments/index.ctp:13
+#: Template/Comments/view.ctp:16
+msgid "New Maid"
+msgstr ""
+
+#: Template/Comments/add.ctp:19
+msgid "Add Comment"
+msgstr ""
+
+#: Template/Comments/add.ctp:27
+#: Template/Comments/edit.ctp:33
+#: Template/Maids/register.ctp:141
+#: View/Helper/FormHelper.php:1887
+msgid "Submit"
+msgstr ""
+
+#: Template/Comments/edit.ctp:10
+#: Template/Comments/index.ctp:44
+msgid "Delete"
+msgstr ""
+
+#: Template/Comments/edit.ctp:12
+#: Template/Comments/index.ctp:44
+#: Template/Comments/view.ctp:10
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Comments/edit.ctp:25
+#: Template/Comments/view.ctp:9
+msgid "Edit Comment"
+msgstr ""
+
+#: Template/Comments/index.ctp:9
+#: Template/Comments/view.ctp:12
+msgid "New Comment"
+msgstr ""
+
+#: Template/Comments/index.ctp:17
+msgid "Comments"
+msgstr ""
+
+#: Template/Comments/index.ctp:42
+msgid "View"
+msgstr ""
+
+#: Template/Comments/index.ctp:43
+msgid "Edit"
+msgstr ""
+
+#: Template/Comments/index.ctp:52
+msgid "first"
+msgstr ""
+
+#: Template/Comments/index.ctp:53
+msgid "previous"
+msgstr ""
+
+#: Template/Comments/index.ctp:55
+msgid "next"
+msgstr ""
+
+#: Template/Comments/index.ctp:56
+msgid "last"
+msgstr ""
+
+#: Template/Comments/index.ctp:58
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: Template/Comments/view.ctp:10
+msgid "Delete Comment"
+msgstr ""
+
+#: Template/Comments/view.ctp:23
+msgid "Id"
+msgstr ""
+
+#: Template/Comments/view.ctp:27
+msgid "Description"
+msgstr ""
+
+#: Template/Comments/view.ctp:31
+msgid "User"
+msgstr ""
+
+#: Template/Comments/view.ctp:35
+msgid "Maid"
+msgstr ""
+
+#: Template/Comments/view.ctp:39
+msgid "Rating"
+msgstr ""
+
+#: Template/Comments/view.ctp:43
+msgid "Created"
+msgstr ""
+
+#: Template/Comments/view.ctp:47
+msgid "Updated"
+msgstr ""
+
+#: Template/Element/Layout/inc_footer.ctp:11
+msgid "63/81 moo.5 T.Bophut Koh Samui, Surat Thani 84321"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:21
+#: Template/Maids/regissuccess.ctp:6
+#: Template/Users/login.ctp:97
+#: Template/Users/register.ctp:13
+msgid "Login"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:22
+#: Template/Users/login.ctp:117
+#: Template/Users/register.ctp:53
+msgid "Register"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:26
+msgid "Logout"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:108
+#: View/Helper/HtmlHelper.php:793
+msgid "Home"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:111
+msgid "Cleaning Service"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:114
+msgid "Pricing"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:117
+msgid "Book Your Cleaner"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:120
+msgid "Become a Cleaner"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:124
+msgid "Cancellation policy"
+msgstr ""
+
+#: Template/Email/html/forgot_password.ctp:6
+msgid "Reset your password"
+msgstr ""
+
+#: Template/Home/index.ctp:37
+#: Template/Home/index_1.ctp:38
+#: Template/Services/index.ctp:7;23;38;54
+msgid "Book Now"
+msgstr ""
+
+#: Template/Home/index.ctp:53
+#: Template/Home/index_1.ctp:52
+msgid "Get a Cleaner in 3 easy steps"
+msgstr ""
+
+#: Template/Home/index.ctp:58
+#: Template/Home/index_1.ctp:57
+msgid "Make a Booking"
+msgstr ""
+
+#: Template/Home/index.ctp:60
+#: Template/Home/index_1.ctp:59
+msgid "Tell us about yourself and your home, so that you can find a cleaner that best suits you. Need advance 1 day"
+msgstr ""
+
+#: Template/Home/index.ctp:65
+#: Template/Home/index_1.ctp:64
+msgid "Get a Cleaner and Online payment"
+msgstr ""
+
+#: Template/Home/index.ctp:67
+#: Template/Home/index_1.ctp:66
+msgid "An insured and trusted cleaner will clean your place. After Confirm payment online"
+msgstr ""
+
+#: Template/Home/index.ctp:72
+#: Template/Home/index_1.ctp:71
+msgid "Enjoy Your Clean Home"
+msgstr ""
+
+#: Template/Home/index.ctp:74
+#: Template/Home/index_1.ctp:73
+msgid "Sit back and relax. We will take care of the rest. All booking detail will forward by your e-mail."
+msgstr ""
+
+#: Template/Layout/error.ctp:35
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: Template/Layout/Email/html/default.ctp:13
+msgid "Hi"
+msgstr ""
+
+#: Template/Maids/regissuccess.ctp:4
+msgid "Register Success"
+msgstr ""
+
+#: Template/Maids/register.ctp:15
+msgid "Personal Infomation"
+msgstr ""
+
+#: Template/Maids/register.ctp:17
+msgid "First Name"
+msgstr ""
+
+#: Template/Maids/register.ctp:23
+msgid "Last Name"
+msgstr ""
+
+#: Template/Maids/register.ctp:29
+msgid "Card No"
+msgstr ""
+
+#: Template/Maids/register.ctp:35
+msgid "Birth Day"
+msgstr ""
+
+#: Template/Maids/register.ctp:41
+#: Template/Users/register.ctp:37
+msgid "Phone"
+msgstr ""
+
+#: Template/Maids/register.ctp:47
+#: Template/Users/register.ctp:32
+msgid "Email"
+msgstr ""
+
+#: Template/Maids/register.ctp:53
+#: Template/Users/register.ctp:44
+msgid "Password"
+msgstr ""
+
+#: Template/Maids/register.ctp:59
+#: Template/Users/register.ctp:49
+msgid "Confirm Password"
+msgstr ""
+
+#: Template/Maids/register.ctp:66
+msgid "Line ID"
+msgstr ""
+
+#: Template/Maids/register.ctp:75
+msgid "Job/Skill Detail"
+msgstr ""
+
+#: Template/Maids/register.ctp:103
+msgid "Workday"
+msgstr ""
+
+#: Template/Maids/register.ctp:116
+msgid "Current Job"
+msgstr ""
+
+#: Template/Maids/register.ctp:126
+msgid "Introduce"
+msgstr ""
+
+#: Template/Maids/register.ctp:132
+msgid "Experience"
+msgstr ""
+
+#: Template/Payments/mypayment.ctp:1
+msgid "My Payment"
+msgstr ""
+
+#: Template/Pricing/index.ctp:11
+msgid "Size/Area (Square meter)"
+msgstr ""
+
+#: Template/Pricing/index.ctp:12
+msgid "Number of room"
+msgstr ""
+
+#: Template/Pricing/index.ctp:13
+msgid "Number of Hours"
+msgstr ""
+
+#: Template/Pricing/index.ctp:14
+msgid "Single Booking Price**"
+msgstr ""
+
+#: Template/Pricing/index.ctp:15
+msgid "Monthly Booking Price**"
+msgstr ""
+
+#: Template/Pricing/index.ctp:18
+msgid "once/week"
+msgstr ""
+
+#: Template/Pricing/index.ctp:19
+msgid "2 times/week"
+msgstr ""
+
+#: Template/Profile/image.ctp:1
+msgid "Change Profile"
+msgstr ""
+
+#: Template/Profile/image.ctp:8
+msgid "Browse Image"
+msgstr ""
+
+#: Template/Profile/image.ctp:18
+msgid "Save"
+msgstr ""
+
+#: Template/Profile/index.ctp:25
+msgid "Edit Profile"
+msgstr ""
+
+#: Template/Services/index.ctp:5
+msgid "Bedroom"
+msgstr ""
+
+#: Template/Services/index.ctp:9
+msgid "Bed linen or linen pillowcases."
+msgstr ""
+
+#: Template/Services/index.ctp:10;41
+msgid "Wipe down and clean the ground floor."
+msgstr ""
+
+#: Template/Services/index.ctp:11;26;42;57
+msgid "Clean all dust spots accessible."
+msgstr ""
+
+#: Template/Services/index.ctp:12;43
+msgid "Wipe mirrors, lamps and furniture made of glass."
+msgstr ""
+
+#: Template/Services/index.ctp:13;29;44;61
+msgid "Deployment Appliance designated as the owner."
+msgstr ""
+
+#: Template/Services/index.ctp:14;30;45;62
+msgid "Change the trash bag and left to waste away."
+msgstr ""
+
+#: Template/Services/index.ctp:21
+msgid "Bathroom"
+msgstr ""
+
+#: Template/Services/index.ctp:25
+msgid "Clean the bathroom sink, bathtub and shower."
+msgstr ""
+
+#: Template/Services/index.ctp:27
+msgid "Wipe the glass and furniture made of glass."
+msgstr ""
+
+#: Template/Services/index.ctp:28
+msgid "Clean the bathroom floor"
+msgstr ""
+
+#: Template/Services/index.ctp:36
+msgid "Living room"
+msgstr ""
+
+#: Template/Services/index.ctp:40
+msgid "Dust cleaner Showcase TV appliances in the room."
+msgstr ""
+
+#: Template/Services/index.ctp:52
+msgid "Kitchen and balcony"
+msgstr ""
+
+#: Template/Services/index.ctp:56
+msgid "Dust cleaning glass dish spoon."
+msgstr ""
+
+#: Template/Services/index.ctp:58
+msgid "Wash and storage containers And cleaning the sink"
+msgstr ""
+
+#: Template/Services/index.ctp:59
+msgid "Wipe dirt area, gas stove, microwave and refrigerator."
+msgstr ""
+
+#: Template/Services/index.ctp:60
+msgid "Clean the kitchen floor"
+msgstr ""
+
+#: Template/Services/index.ctp:63
+msgid "Clean balcony"
+msgstr ""
+
+#: Template/Services/index.ctp:64
+msgid "Watering a tree"
+msgstr ""
+
+#: Template/Services/index.ctp:73
+msgid "Remark"
+msgstr ""
+
+#: Template/Services/index.ctp:75
+msgid "For a clearer view of the necessary requirements, please speak with your cleaner directly."
+msgstr ""
+
+#: Template/Services/index.ctp:76
+msgid "Our service excludes these activities as follows:Big cleaning, Exterior window cleaning, Deep stain removal, Infestation, Mold removal, Insect removal"
+msgstr ""
+
+#: Template/Services/index.ctp:77
+msgid "We recommend to have the following cleaning supplies at Villa or home: (If not, please inform at booking form)"
+msgstr ""
+
+#: Template/Services/index.ctp:79
+msgid "1 vacuum cleaner/broom and 1 mop "
+msgstr ""
+
+#: Template/Services/index.ctp:80
+msgid "4 cleaning cloths "
+msgstr ""
+
+#: Template/Services/index.ctp:81
+msgid "1 feather duster "
+msgstr ""
+
+#: Template/Services/index.ctp:82
+msgid "1 scratch-free sponge "
+msgstr ""
+
+#: Template/Users/forgot.ctp:6
+msgid "Reset your password?"
+msgstr ""
+
+#: Template/Users/forgot.ctp:16
+msgid "Send verification email"
+msgstr ""
+
+#: Template/Users/login.ctp:94
+msgid "Forget your Password?"
+msgstr ""
+
+#: Template/Users/login.ctp:117
+msgid "Don't have account yet? Learn more and"
+msgstr ""
+
+#: Template/Users/register.ctp:20
+msgid "Firstname"
+msgstr ""
+
+#: Template/Users/register.ctp:25
+msgid "Lastname"
+msgstr ""
+
+#: Template/Users/resetpassword.ctp:5;21
+msgid "Reset Password"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:496
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:155
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:159
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:258
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:260
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: Http/Response.php:2259
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Http/Response.php:2270
+msgid "The requested file was not found"
+msgstr ""
+
+#: I18n/Number.php:90
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:92
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:94
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:96
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:88
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154;332
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155;333
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156;334
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:157;335
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171;346
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172;347
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:173;348
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:174;349
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47;126;316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51;129;319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57;132;322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59;135;325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64;138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68;141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72;144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ORM/RulesChecker.php:57
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:104
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:128
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:899
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:103
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:104
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:1782
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1008
+msgid "New %s"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1011
+msgid "Edit %s"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:551
+msgid "December"
+msgstr ""
+

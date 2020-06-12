@@ -1,0 +1,540 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-06-21 23:50+0700\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Template/Book/index.ctp:377;441;491
+msgid "Save and continue"
+msgstr ""
+
+#: Template/Book/index.ctp:393;410;427
+msgid "Room"
+msgstr ""
+
+#: Template/Book/index.ctp:394;411;428
+msgid "Hours"
+msgstr ""
+
+#: Template/Book/index.ctp:479
+#: Template/Bookings/index.ctp:135
+msgid "Select"
+msgstr ""
+
+#: Template/Book/index.ctp:532
+msgid "Booking Confirm"
+msgstr ""
+
+#: Template/Book/mybooking.ctp:5
+msgid "My Booking"
+msgstr ""
+
+#: Template/Bookings/index.ctp:13
+#: Template/Bookings/step2.ctp:6
+msgid "Cleaning Detail"
+msgstr ""
+
+#: Template/Bookings/index.ctp:19
+#: Template/Bookings/step2.ctp:12
+msgid "MyInformation"
+msgstr ""
+
+#: Template/Bookings/index.ctp:25
+#: Template/Bookings/step2.ctp:18
+msgid "Payment"
+msgstr ""
+
+#: Template/Bookings/index.ctp:37
+msgid "Area"
+msgstr ""
+
+#: Template/Bookings/index.ctp:44
+msgid "Service"
+msgstr ""
+
+#: Template/Bookings/index.ctp:51
+msgid "Date"
+msgstr ""
+
+#: Template/Bookings/index.ctp:59
+msgid "Time"
+msgstr ""
+
+#: Template/Bookings/index.ctp:71
+msgid "Total Room"
+msgstr ""
+
+#: Template/Bookings/index.ctp:78
+msgid "Total Hour"
+msgstr ""
+
+#: Template/Bookings/index.ctp:85
+msgid "Package"
+msgstr ""
+
+#: Template/Bookings/index.ctp:94
+msgid "Find Cleaner"
+msgstr ""
+
+#: Template/Cancellation/index.ctp:5
+msgid "Conditions and restrictions/Cancellation policy"
+msgstr ""
+
+#: Template/Cancellation/index.ctp:6
+msgid "Samuicleaner.com Implement and manage an online platform where customers can book cleaning the house by sending a reservation request through samuicleaner.com. Once the booking is confirmed, and payment completed Samuicleaner.com Requests to send all information to the maid service to clean up by schedule and the most appropriate."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:9
+msgid "1. The terms and conditions of the service."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:11
+msgid "The cleaning service must be booked at least one day in advance."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:12
+msgid "Users will receive confirmation from the maid service within 24 hours or sooner."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:13
+msgid "Users may be denied or cancellation. If the maid is not enough The provider will call you. And the service will not cost you any of this."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:14
+msgid "Users can pay via credit / debit cards only. The system will cut the amount of credit / debit card immediately after the maid had confirmation of the service."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:15
+msgid "If users are not satisfied with the service. Providers offer 100% money back unconditionally. Or offer to clean the site again."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:18
+msgid "2. The terms and conditions of the provider."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:20
+msgid "Any damaged or defective equipment while cleaning. In addition to the responsibility of the provider. Homeowners or consumers can not claim damages from the provider."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:21
+msgid "The only cleaning the bedroom, living room common area, bathroom, kitchen, and balcony."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:22
+msgid "Service providers can reject or cancel the service. If the maid is not enough By providers to inform the subscriber. And the service will not cost you any of this."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:26
+msgid "3. Cancellation and refund."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:28
+msgid "Users may cancel their service. The call provider. The conditions are as follows"
+msgstr ""
+
+#: Template/Cancellation/index.ctp:29
+msgid "If you cancel your reservation before the users are confirmed. Users will not charge for any of these cases."
+msgstr ""
+
+#: Template/Cancellation/index.ctp:30
+msgid "If canceled after booking the user is verified. And cancel more than 24 hours before the appointed time, the provider will refund any payments from credit / debit 4% to the "
+msgstr ""
+
+#: Template/Cancellation/index.ctp:31
+msgid "If canceled after booking the user is verified. And cancel appointments at least 24 hours prior to the service provider will return the money to the seller only 50% only."
+msgstr ""
+
+#: Template/Element/Layout/inc_footer.ctp:11
+msgid "63/81 moo.5 T.Bophut Koh Samui, Surat Thani 84321"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:21
+#: Template/Maids/regissuccess.ctp:6
+#: Template/Users/login.ctp:97
+#: Template/Users/register.ctp:13
+msgid "Login"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:22
+#: Template/Users/login.ctp:117
+#: Template/Users/register.ctp:53
+msgid "Register"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:26
+msgid "Logout"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:108
+msgid "Home"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:111
+msgid "Cleaning Service"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:114
+msgid "Pricing"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:117
+msgid "Booking A Cleaner"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:120
+msgid "Become a cleaner"
+msgstr ""
+
+#: Template/Element/Layout/inc_header.ctp:124
+msgid "Cancellation policy"
+msgstr ""
+
+#: Template/Email/html/forgot_password.ctp:6
+msgid "Reset your password"
+msgstr ""
+
+#: Template/Home/index.ctp:19
+msgid "Professional"
+msgstr ""
+
+#: Template/Home/index.ctp:20
+msgid "quality cleaning"
+msgstr ""
+
+#: Template/Home/index.ctp:21
+msgid "with a personal touch"
+msgstr ""
+
+#: Template/Home/index.ctp:37
+#: Template/Home/index_1.ctp:38
+#: Template/Services/index.ctp:7;23;38;54
+msgid "Book Now"
+msgstr ""
+
+#: Template/Home/index.ctp:53
+#: Template/Home/index_1.ctp:52
+msgid "Get a Cleaner in 3 easy steps"
+msgstr ""
+
+#: Template/Home/index.ctp:58
+#: Template/Home/index_1.ctp:57
+msgid "Make a Booking"
+msgstr ""
+
+#: Template/Home/index.ctp:60
+#: Template/Home/index_1.ctp:59
+msgid "Tell us about yourself and your home, so that you can find a cleaner that best suits you. Need advance 1 day"
+msgstr ""
+
+#: Template/Home/index.ctp:65
+#: Template/Home/index_1.ctp:64
+msgid "Get a Cleaner and Online payment"
+msgstr ""
+
+#: Template/Home/index.ctp:67
+#: Template/Home/index_1.ctp:66
+msgid "An insured and trusted cleaner will clean your place. After Confirm payment online"
+msgstr ""
+
+#: Template/Home/index.ctp:72
+#: Template/Home/index_1.ctp:71
+msgid "Enjoy Your Clean Home"
+msgstr ""
+
+#: Template/Home/index.ctp:74
+#: Template/Home/index_1.ctp:73
+msgid "Sit back and relax. We will take care of the rest. All booking detail will forward by your e-mail."
+msgstr ""
+
+#: Template/Layout/error.ctp:35
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: Template/Layout/Email/html/default.ctp:13
+msgid "Hi"
+msgstr ""
+
+#: Template/Maids/regissuccess.ctp:4
+msgid "Register Success"
+msgstr ""
+
+#: Template/Maids/register.ctp:15
+msgid "Personal Infomation"
+msgstr ""
+
+#: Template/Maids/register.ctp:17
+msgid "First Name"
+msgstr ""
+
+#: Template/Maids/register.ctp:23
+msgid "Last Name"
+msgstr ""
+
+#: Template/Maids/register.ctp:29
+msgid "Card No"
+msgstr ""
+
+#: Template/Maids/register.ctp:35
+msgid "Birth Day"
+msgstr ""
+
+#: Template/Maids/register.ctp:41
+#: Template/Users/register.ctp:37
+msgid "Phone"
+msgstr ""
+
+#: Template/Maids/register.ctp:47
+#: Template/Users/register.ctp:32
+msgid "Email"
+msgstr ""
+
+#: Template/Maids/register.ctp:53
+#: Template/Users/register.ctp:44
+msgid "Password"
+msgstr ""
+
+#: Template/Maids/register.ctp:59
+#: Template/Users/register.ctp:49
+msgid "Confirm Password"
+msgstr ""
+
+#: Template/Maids/register.ctp:66
+msgid "Line ID"
+msgstr ""
+
+#: Template/Maids/register.ctp:75
+msgid "Job/Skill Detail"
+msgstr ""
+
+#: Template/Maids/register.ctp:103
+msgid "Workday"
+msgstr ""
+
+#: Template/Maids/register.ctp:116
+msgid "Current Job"
+msgstr ""
+
+#: Template/Maids/register.ctp:126
+msgid "Introduce"
+msgstr ""
+
+#: Template/Maids/register.ctp:132
+msgid "Experience"
+msgstr ""
+
+#: Template/Maids/register.ctp:141
+msgid "Submit"
+msgstr ""
+
+#: Template/Payments/mypayment.ctp:1
+msgid "My Payment"
+msgstr ""
+
+#: Template/Pricing/index.ctp:11
+msgid "Size/Area (Square meter)"
+msgstr ""
+
+#: Template/Pricing/index.ctp:12
+msgid "Number of room"
+msgstr ""
+
+#: Template/Pricing/index.ctp:13
+msgid "Number of Hours"
+msgstr ""
+
+#: Template/Pricing/index.ctp:14
+msgid "Single Booking Price**"
+msgstr ""
+
+#: Template/Pricing/index.ctp:15
+msgid "Monthly Booking Price**"
+msgstr ""
+
+#: Template/Pricing/index.ctp:18
+msgid "once/week"
+msgstr ""
+
+#: Template/Pricing/index.ctp:19
+msgid "2 times/week"
+msgstr ""
+
+#: Template/Profile/image.ctp:1
+msgid "Change Profile"
+msgstr ""
+
+#: Template/Profile/image.ctp:8
+msgid "Browse Image"
+msgstr ""
+
+#: Template/Profile/image.ctp:18
+msgid "Save"
+msgstr ""
+
+#: Template/Profile/index.ctp:25
+msgid "Edit Profile"
+msgstr ""
+
+#: Template/Services/index.ctp:5
+msgid "Bedroom"
+msgstr ""
+
+#: Template/Services/index.ctp:9
+msgid "Bed linen or linen pillowcases."
+msgstr ""
+
+#: Template/Services/index.ctp:10;41
+msgid "Wipe down and clean the ground floor."
+msgstr ""
+
+#: Template/Services/index.ctp:11;26;42;57
+msgid "Clean all dust spots accessible."
+msgstr ""
+
+#: Template/Services/index.ctp:12;43
+msgid "Wipe mirrors, lamps and furniture made of glass."
+msgstr ""
+
+#: Template/Services/index.ctp:13;29;44;61
+msgid "Deployment Appliance designated as the owner."
+msgstr ""
+
+#: Template/Services/index.ctp:14;30;45;62
+msgid "Change the trash bag and left to waste away."
+msgstr ""
+
+#: Template/Services/index.ctp:21
+msgid "Bathroom"
+msgstr ""
+
+#: Template/Services/index.ctp:25
+msgid "Clean the bathroom sink, bathtub and shower."
+msgstr ""
+
+#: Template/Services/index.ctp:27
+msgid "Wipe the glass and furniture made of glass."
+msgstr ""
+
+#: Template/Services/index.ctp:28
+msgid "Clean the bathroom floor"
+msgstr ""
+
+#: Template/Services/index.ctp:36
+msgid "Living room"
+msgstr ""
+
+#: Template/Services/index.ctp:40
+msgid "Dust cleaner Showcase TV appliances in the room."
+msgstr ""
+
+#: Template/Services/index.ctp:52
+msgid "Kitchen and balcony"
+msgstr ""
+
+#: Template/Services/index.ctp:56
+msgid "Dust cleaning glass dish spoon."
+msgstr ""
+
+#: Template/Services/index.ctp:58
+msgid "Wash and storage containers And cleaning the sink"
+msgstr ""
+
+#: Template/Services/index.ctp:59
+msgid "Wipe dirt area, gas stove, microwave and refrigerator."
+msgstr ""
+
+#: Template/Services/index.ctp:60
+msgid "Clean the kitchen floor"
+msgstr ""
+
+#: Template/Services/index.ctp:63
+msgid "Clean balcony"
+msgstr ""
+
+#: Template/Services/index.ctp:64
+msgid "Watering a tree"
+msgstr ""
+
+#: Template/Services/index.ctp:73
+msgid "Remark"
+msgstr ""
+
+#: Template/Services/index.ctp:75
+msgid "For a clearer view of the necessary requirements, please speak with your cleaner directly."
+msgstr ""
+
+#: Template/Services/index.ctp:76
+msgid "Our service excludes these activities as follows:Big cleaning, Exterior window cleaning, Deep stain removal, Infestation, Mold removal, Insect removal"
+msgstr ""
+
+#: Template/Services/index.ctp:77
+msgid "We recommend to have the following cleaning supplies at Villa or home: (If not, please inform at booking form)"
+msgstr ""
+
+#: Template/Services/index.ctp:79
+msgid "1 vacuum cleaner/broom and 1 mop "
+msgstr ""
+
+#: Template/Services/index.ctp:80
+msgid "4 cleaning cloths "
+msgstr ""
+
+#: Template/Services/index.ctp:81
+msgid "1 feather duster "
+msgstr ""
+
+#: Template/Services/index.ctp:82
+msgid "1 scratch-free sponge "
+msgstr ""
+
+#: Template/Users/forgot.ctp:6
+msgid "Reset your password?"
+msgstr ""
+
+#: Template/Users/forgot.ctp:16
+msgid "Send verification email"
+msgstr ""
+
+#: Template/Users/login.ctp:94
+msgid "Forget your Password?"
+msgstr ""
+
+#: Template/Users/login.ctp:117
+msgid "Don't have account yet? Learn more and"
+msgstr ""
+
+#: Template/Users/register.ctp:20
+msgid "Firstname"
+msgstr ""
+
+#: Template/Users/register.ctp:25
+msgid "Lastname"
+msgstr ""
+
+#: Template/Users/resetpassword.ctp:5;21
+msgid "Reset Password"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
