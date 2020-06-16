@@ -46,7 +46,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <?= $this->Html->link($this->Html->image('logo/samui_cleaner_logo.png', ['id' => 'logo-header']), '/', ['' => '', 'class' => 'navbar-brand', 'escape' => false]); ?>
+                <?= $this->Html->link($this->Html->image('logo/samui_cleaner_w_logo.png', ['id' => 'logo-header']), '/', ['' => '', 'class' => 'navbar-brand', 'escape' => false]); ?>
             </div>
 
             <!-- Shopping Cart -->

@@ -50,7 +50,7 @@
 <div class="container content-sm">
     <div class="row margin-bottom-40">
         <div class="col-md-12 text-center">
-            <h2><?= __('Get a Cleaner in 3 easy steps') ?></h2>
+            <h2 class="text-primary"><?= __('Get a Cleaner in 3 easy steps') ?></h2>
         </div>
         <div class="col-md-4 content-boxes-v6 md-margin-bottom-50">
             <i class="rounded-x glyphicon glyphicon-calendar"></i>
@@ -79,7 +79,7 @@
     <div class="clearfix margin-bottom-20"><hr></div>
 
     <div class="heading heading-v1 margin-bottom-10">
-        <h2><?= __('Latest Our cleaner') ?></h2>
+        <h2 class="text-primary"><?= __('Latest Our cleaner') ?></h2>
     </div>
     <?php $i = 1; ?>
     <?php foreach ($maids as $maid): ?>
@@ -135,7 +135,7 @@
 
 
     <div class="heading heading-v1 margin-bottom-10">
-        <h2><?= __('What our customers say') ?></h2>
+        <h2 class="text-primary"><?= __('What our customers say') ?></h2>
     </div>
 
     <div class="row margin-bottom-40">
@@ -169,7 +169,7 @@
     <!--=== Sponsors ===-->
     <div class="container content">
         <div class="heading heading-v1 margin-bottom-40">
-            <h2><?= __('Our Customer') ?></h2>
+            <h2 class="text-primary"><?= __('Our Customer') ?></h2>
 
         </div>
 

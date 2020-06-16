@@ -16,23 +16,27 @@ use Cake\Controller\Component;
  */
 class ForeignExchangeRateComponent extends Component {
 
+    //https://free.currconv.com/api/v7/convert?q=USD_THB&compact=ultra&apiKey=e37fd5c1eb59a25b325b
     public function getRate() {
         $mainUrl = "https://free.currencyconverterapi.com/api/v5/convert?compact=y&q=";
         $convertionRates = [];
-        
+
         $currencies = ['USD', 'CNY', 'EUR', 'JPY', 'AUD'];
         foreach ($currencies as $value) {
-            $baseTo =  $value."_THB";
-            $url = $mainUrl . $baseTo;
+            $baseTo = $value . "_THB";
+            $url = sprintf('https://free.currconv.com/api/v7/convert?q=%s&compact=ultra&apiKey=e37fd5c1eb59a25b325b', $baseTo);
             $json = file_get_contents($url);
+            //$this->log($url, 'debug');
+
+
             $json_data = json_decode($json, true);
             $json_data['base'] = $value;
-            $json_data['rate'] = $json_data[$baseTo]['val'];
+            $json_data['rate'] = $json_data[$baseTo];
             $json_data['url'] = $url;
-            $json_data['icon'] = "https://www.kasikornbank.com/SiteCollectionDocuments/assets/img/currency/".$value.".png";
+            $json_data['icon'] = "https://www.kasikornbank.com/SiteCollectionDocuments/assets/img/currency/" . $value . ".png";
             array_push($convertionRates, $json_data);
         }
-       
+
         //$this->log($convertionRates, 'debug');
         return $convertionRates;
     }

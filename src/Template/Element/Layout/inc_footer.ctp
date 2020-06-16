@@ -38,7 +38,7 @@
                         <thead>
                             <tr>
                                 <td><?= __('Currency') ?></td>
-                                <td><?= __('Exchange') ?></td>
+                                <td class="text-right"><?= __('Exchange') ?>(฿)</td>
                             </tr>
 
                         </thead>
@@ -46,7 +46,7 @@
                             <?php foreach ($convertionRates as $rate): ?>
                                 <tr>
                                     <td style="padding: 4px !important;"><image src="<?= $rate['icon'] ?>" width="25px"/> <?= $rate['base'] ?></td>
-                                    <td style="padding: 4px !important;"><?= $rate['rate'] ?></td>
+                                    <td style="padding: 4px !important;" class="text-right"><?= number_format($rate['rate'],2) ?></td>
                                 </tr>
                             <?php endforeach; ?>
                         </tbody>
