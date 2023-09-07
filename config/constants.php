@@ -60,13 +60,22 @@ Configure::write('SERVICE_AREA_LATLONG', [
 
 Configure::write('SERVICE_TYPE', ['Cleaning Service']);
 Configure::write('ROOM', [1=>'1 Room',2=>'2 Room',3=>'3 Room',4=>'4 Room',5=>'5 Room']);
-Configure::write('HOUR', [100=>'1 Hour',150=>'1.5 Hour',
-    200=>'2 Hour',250=>'2.5 Hour',
-    300=>'3 Hour',350=>'3.5 Hour',
-    400=>'4 Hour',450=>'4.5 Hour',
-    500=>'5 Hour',550=>'5.5 Hour',
-    600=>'6 Hour',650=>'6.5 Hour',
-    700=>'7 Hour',750=>'7.5 Hour',800=>'8 Hour']);
+// Configure::write('HOUR', [100=>'1 Hour',150=>'1.5 Hour',
+//     200=>'2 Hour',250=>'2.5 Hour',
+//     300=>'3 Hour',350=>'3.5 Hour',
+//     400=>'4 Hour',450=>'4.5 Hour',
+//     500=>'5 Hour',550=>'5.5 Hour',
+//     600=>'6 Hour',650=>'6.5 Hour',
+//     700=>'7 Hour',750=>'7.5 Hour',800=>'8 Hour']);
+
+Configure::write('HOUR', [
+    200=>'2 Hour',
+    300=>'3 Hour',
+    400=>'4 Hour',
+    500=>'5 Hour',
+    600=>'6 Hour',
+    700=>'7 Hour',
+    800=>'8 Hour']);
 
 Configure::write('TIME', [
         '07:30'=>'07:30',

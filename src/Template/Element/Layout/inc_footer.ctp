@@ -16,14 +16,15 @@
             <div class="row">
                 <!-- About -->
                 <div class="col-md-4 md-margin-bottom-40">
+                    <h3>Contact Us</h3>
                     <ul class="list-unstyled address-list margin-bottom-20">
-                        <li><i class="fa fa-angle-right"></i><?= __('63/81 moo.5 T.Bophut Koh Samui, Surat Thani 84321') ?></li>
-                        <li><i class="fa fa-angle-right"></i>Phone: 077969928</li>
+                        <li><i class="fa fa-angle-right"></i>88/107 moo.5 T.Bophut Koh Samui, Surat Thani 84320</li>
+                        <li><i class="fa fa-angle-right"></i>Phone: 077945073</li>
                         <li><i class="fa fa-angle-right"></i>Mobile: 0629753014</li>
                         <li><i class="fa fa-angle-right"></i>Line ID: samuicleaner</li>
-                        <li><i class="fa fa-angle-right"></i>Email: info@samuicleaner.com</li>
+                        <li><i class="fa fa-angle-right"></i>Email: samuicleaner@gmail.com</li>
                     </ul>
-                   
+
                 </div>
 
                 <div class="col-md-4">
@@ -37,18 +38,18 @@
                     <table class="table ">
                         <thead>
                             <tr>
-                                <td><?= __('Currency') ?></td>
-                                <td class="text-right"><?= __('Exchange') ?>(฿)</td>
+                                <td><?=__('Currency')?></td>
+                                <td class="text-right"><?=__('Exchange')?>(฿)</td>
                             </tr>
 
                         </thead>
                         <tbody>
                             <?php foreach ($convertionRates as $rate): ?>
                                 <tr>
-                                    <td style="padding: 4px !important;"><image src="<?= $rate['icon'] ?>" width="25px"/> <?= $rate['base'] ?></td>
-                                    <td style="padding: 4px !important;" class="text-right"><?= number_format($rate['rate'],2) ?></td>
+                                    <td style="padding: 4px !important;"><image src="<?=$rate['icon']?>" width="25px"/> <?=$rate['base']?></td>
+                                    <td style="padding: 4px !important;" class="text-right"><?=number_format($rate['rate'], 2)?></td>
                                 </tr>
-                            <?php endforeach; ?>
+                            <?php endforeach;?>
                         </tbody>
                     </table>
 

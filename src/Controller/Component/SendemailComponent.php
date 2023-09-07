@@ -28,13 +28,21 @@ class SendemailComponent extends Component {
         $this->emailConfig = $this->CEmailsettings->get('0');
 
         Email::dropTransport($this->TRANSPORT_NAME);
+        // Email::configTransport($this->TRANSPORT_NAME, [
+        //     'host' => $this->emailConfig->email_server,
+        //     'port' => $this->emailConfig->email_port,
+        //     'username' => $this->emailConfig->email_username,
+        //     'password' => $this->emailConfig->email_password,
+        //     'className' => 'Smtp',
+        //     'tls' => false
+        // ]);
         Email::configTransport($this->TRANSPORT_NAME, [
-            'host' => $this->emailConfig->email_server,
-            'port' => $this->emailConfig->email_port,
-            'username' => $this->emailConfig->email_username,
-            'password' => $this->emailConfig->email_password,
+            'host' => 'smtp.gmail.com',
+            'port' => 587,
+            'username' => 'noreply.wiroon.app@gmail.com ',
+            'password' => 'zidyvqdmeyrjpfpq',
             'className' => 'Smtp',
-            'tls' => false
+            'tls' => true
         ]);
         //debug($this->emailConfig);
     }

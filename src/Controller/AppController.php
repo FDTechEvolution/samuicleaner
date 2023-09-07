@@ -102,7 +102,7 @@ class AppController extends Controller {
             $convertionRates = $this->ForeignExchangeRate->getRate();
             $this->request->session()->write('ForeignExchangeRate',$convertionRates);
         }else{
-            //$convertionRates = $this->ForeignExchangeRate->getRate();
+            // $convertionRates = $this->ForeignExchangeRate->getRate();
             $convertionRates = $this->request->session()->read('ForeignExchangeRate');
         }
         //$this->log($convertionRates,'debug');

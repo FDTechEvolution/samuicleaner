@@ -23,7 +23,10 @@
             <h4> <i class="icon-notebook"></i><?= h($bookingData['package_name']) ?></h4>
             <p><i class="icon-pointer _icon"></i> <?= h($bookingData['area']) ?></p>
             <?php if (isset($bookingData['hour']) && !is_null($bookingData['hour'])) { ?>
-                <p><i class="icon-hourglass _icon"></i> <?= _('Total') ?> <strong><?= h($bookingData['hour']) ?></strong> <?= _('Hour') ?></p>
+                <p><i class="icon-hourglass _icon"></i> <?= _('Total : ') ?> <strong><?= h($bookingData['hour']) ?></strong> <?= _('Hour') ?></p>
+            <?php } ?>
+            <?php if (isset($bookingData['total_amount']) && !is_null($bookingData['total_amount'])) { ?>
+                <p><i class="icon-credit-card _icon"></i> <?= _('Amount : ') ?> <?= _('฿') ?><strong><?= h(number_format($bookingData['total_amount'])) ?></strong></p>
             <?php } ?>
             <?php if (isset($bookingData['date']) && !is_null($bookingData['date'])) { ?>
                 <p><i class="icon-calendar _icon"></i> <?= h($bookingData['date']) ?></p>

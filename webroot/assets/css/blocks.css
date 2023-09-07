@@ -5644,11 +5644,11 @@
   border-top: none;
   border-left: none;
   border-right: none;
-  border-bottom: 1px solid #4caf50;
+  border-bottom: 1px solid #72c02c;
 }
 
 .tab-v6 .nav-tabs > li > a:hover {
-  border-bottom: 1px solid #4caf50;
+  border-bottom: 1px solid #72c02c;
 }
 
 .tab-v6 .nav-tabs > li > a:focus {
@@ -6076,7 +6076,7 @@
 	line-height: 30px;
 	position: relative;
 	text-align: center;
-	background: #dedede;
+	background: #72c02c;
 	margin-bottom: 25px;
 	display: inline-block;
 }

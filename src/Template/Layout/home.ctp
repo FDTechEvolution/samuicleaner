@@ -22,7 +22,7 @@
 
 
         <!-- CSS Header and Footer -->
-        <?= $this->Html->css('/assets/css/headers/header-default.css') ?>
+        <?=''// $this->Html->css('/assets/css/headers/header-default.css') ?>
         <?= $this->Html->css('/assets/css/footers/footer-v1.css') ?>
 
         <!-- CSS Implementing Plugins -->

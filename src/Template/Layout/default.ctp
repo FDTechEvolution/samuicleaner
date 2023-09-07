@@ -7,7 +7,7 @@
         <?= $this->element('Layout/inc_header_asset'); ?>
     </head>
 
-    <body class="header-fixed" id="div_body">
+    <body class="header-fixed header-fixed-space-default">
         <div id="page-load" style="display: none;" class="page_loader">
             <?= $this->Html->image('page_loading.gif', ['style' => 'opacity:1.0;']) ?>
         </div>

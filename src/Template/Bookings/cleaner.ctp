@@ -10,7 +10,7 @@
     <div class="container bg-color-light padding-sm">
 
         <?= $this->Form->create('booking', ['class' => 'sky-form','id'=>'select_maid_frm', 'novalidate' => true, 'style' => 'border: none !important;']) ?>
-        <?= $this->Form->hidden('maid_id',['value'=>'','id'=>'maid_id'])?>
+        
         <?= $this->Form->unlockField('maid_id'); ?>
         <div class="row">
             <div class="col-md-12 text-center" style="border-bottom: 1px dotted #e4e9f0;padding-bottom: 10px;">
@@ -70,9 +70,10 @@
                                 </ul>
 
                                 <p><?= h($a->introduce) ?></p>
+                                
                             </div>
                             <div class="fcol-md-2 text-right">
-                                <button class="btn-u" type="button" name="maid_select" value="<?= $a->id ?>"><?= __('Choose') ?></button>
+                                <button class="btn-u" type="submit" name="maid_id" value="<?= $a->id ?>"><?= __('Choose') ?></button>
                             </div>
                         </div>
                     <?php endforeach; ?>
